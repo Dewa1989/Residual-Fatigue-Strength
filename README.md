@@ -1,0 +1,1 @@
+This repository contains the ipynb files of 12 different ML codes and data frame used in the article "Data-Driven Machine Learning Regression Methods to Predict the Residual Strength in FRP Composites Subjected to Fatigue" published in Polymer Composites Journal
